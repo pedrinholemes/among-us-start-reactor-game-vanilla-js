@@ -1,0 +1,4 @@
+language = "nodejs"
+# run="yarn postcss styles/**/*.css -u autoprefixer --dir ./css"
+# run = "npx live-server --port 3000"
+run= "npx lite-server"
